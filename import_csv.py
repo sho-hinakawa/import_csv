@@ -1,3 +1,6 @@
+#Script para convertir a TXT los enlaces CSV de TTS 
+#Creditos Telegram @hinakawa
+
 import csv
 import os
 
